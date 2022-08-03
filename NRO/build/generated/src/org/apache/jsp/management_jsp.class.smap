@@ -1,0 +1,16 @@
+SMAP
+management_jsp.java
+JSP
+*S JSP
+*F
++ 0 management.jsp
+management.jsp
+*L
+1,55:54
+55:257,12
+56,19:269
+74,53:111
+126:312,12
+127,2:324
+128,73:166
+*E

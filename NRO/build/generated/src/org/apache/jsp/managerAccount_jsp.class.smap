@@ -1,0 +1,17 @@
+SMAP
+managerAccount_jsp.java
+JSP
+*S JSP
+*F
++ 0 managerAccount.jsp
+managerAccount.jsp
+*L
+1,54:54
+54:207,11
+55,7:218
+62,3:225,3
+65,2:234
+67:236,3
+68,3:239
+70,79:110
+*E
